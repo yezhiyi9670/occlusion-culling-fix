@@ -13,7 +13,7 @@ Relations
 Effect
 -----
 
-![](logo-large.png)
+![](logo-standard.png)
 
 The chunk with letters "VISIBLE" in it is hidden in vanilla because of [MC-70850](https://bugs.mojang.com/browse/MC-70850). You can get the test map for the bug by clicking the link above.
 
