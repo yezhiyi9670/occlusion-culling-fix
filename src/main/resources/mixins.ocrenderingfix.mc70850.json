@@ -1,0 +1,10 @@
+{
+  "package": "yezhiyi9670.ocrenderingfix.bugfix.mc70850",
+  "target": "@env(DEFAULT)",
+  "minVersion": "0.8",
+  "compatibilityLevel": "JAVA_8",
+  "required": true,
+  "client": [
+    "MixinVisGraph"
+  ]
+}
