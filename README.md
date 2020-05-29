@@ -37,6 +37,6 @@ Not found so far.
 Plans
 -----
 
-New features will not be added to the mod in order to keep the name descriptive. Please use [Github Issue Tracker](http://github.com/yezhiyi9670/ocrenderingfix/issues) to report bugs. DO NOT report bugs using CurseForge comment as comments may not be responsed.
+New features will not be added to the mod in order to keep the name descriptive. Please use [Github Issue Tracker](http://github.com/yezhiyi9670/occlusion-culling-fix/issues) to report bugs. DO NOT report bugs using CurseForge comment as comments may not be responsed.
 
 The mod WILL NOT be backported to MC1.14.4 and earlier. If you are the lucky one who is playing MC1.12.2, use [EigenCraft Unofficial Patches](https://github.com/mrgrim/MUP) instead.
